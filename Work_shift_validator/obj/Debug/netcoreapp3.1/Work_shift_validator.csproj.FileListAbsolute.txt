@@ -1,0 +1,10 @@
+C:\Users\Teemu\source\repos\Work_shift_validator\bin\Debug\netcoreapp3.1\Work_shift_validator.exe
+C:\Users\Teemu\source\repos\Work_shift_validator\bin\Debug\netcoreapp3.1\Work_shift_validator.deps.json
+C:\Users\Teemu\source\repos\Work_shift_validator\bin\Debug\netcoreapp3.1\Work_shift_validator.runtimeconfig.json
+C:\Users\Teemu\source\repos\Work_shift_validator\bin\Debug\netcoreapp3.1\Work_shift_validator.runtimeconfig.dev.json
+C:\Users\Teemu\source\repos\Work_shift_validator\bin\Debug\netcoreapp3.1\Work_shift_validator.dll
+C:\Users\Teemu\source\repos\Work_shift_validator\bin\Debug\netcoreapp3.1\Work_shift_validator.pdb
+C:\Users\Teemu\source\repos\Work_shift_validator\obj\Debug\netcoreapp3.1\Work_shift_validator.AssemblyInfoInputs.cache
+C:\Users\Teemu\source\repos\Work_shift_validator\obj\Debug\netcoreapp3.1\Work_shift_validator.AssemblyInfo.cs
+C:\Users\Teemu\source\repos\Work_shift_validator\obj\Debug\netcoreapp3.1\Work_shift_validator.dll
+C:\Users\Teemu\source\repos\Work_shift_validator\obj\Debug\netcoreapp3.1\Work_shift_validator.pdb
