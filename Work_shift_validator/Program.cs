@@ -45,7 +45,7 @@ namespace Work_shift_validator
                     case 1:
                         DateTime today = DateTime.Today;
                         Console.Write("\nToday is " + today.ToString("d") + ".\n");
-                        Console.Write("Please enter work shift date (zeroes default to today): ");
+                        Console.Write("Please enter work shift date in DD.MM.YYYY format (incorrect format defaults to today): ");
                         string inputdate = Console.ReadLine();
                         try
                         {
